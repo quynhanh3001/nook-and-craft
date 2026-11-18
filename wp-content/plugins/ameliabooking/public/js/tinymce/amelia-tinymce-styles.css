@@ -23,7 +23,7 @@
 
 .mce-am-beta-booking-shortcode span:after {
     content: "" !important;
-    background-image: url(/wp-content/plugins/ameliabooking/public/img/beta.svg) !important;
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/beta.svg) !important;
     display: inline-block !important;
     background-size: contain !important;
     width: 40px !important;
@@ -40,7 +40,7 @@
 
 .mce-am-outdated-booking-shortcode span:after {
     content: "" !important;
-    background-image: url(/wp-content/plugins/ameliabooking/public/img/outdated.svg) !important;
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/outdated.svg) !important;
     display: inline-block !important;
     background-size: contain !important;
     width: 65px !important;

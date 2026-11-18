@@ -15,7 +15,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-admin-icon.svg);
+  background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-admin-icon.svg);
 }
 
 .elementor-panel .elementor-element .icon i.amelia-logo-beta:before,
@@ -29,7 +29,7 @@
   background-repeat: no-repeat;
   background-position: center center;
   margin-left: 19px;
-  background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-beta.svg);
+  background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-beta.svg);
 }
 
 .elementor-panel .elementor-element .icon i.amelia-logo-outdated:before,
@@ -43,7 +43,7 @@
   background-repeat: no-repeat;
   background-position: center center;
   margin-left: 19px;
-  background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-outdated.svg);
+  background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-outdated.svg);
 }
 
 #elementor-controls {
@@ -67,7 +67,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
-    background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-admin-icon.svg);
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-admin-icon.svg);
   }
 
   &-title {
@@ -89,7 +89,7 @@
 .amelia-elementor-content-beta {
   &:before {
     width: 44px;
-    background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-beta.svg);
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-beta.svg);
   }
 }
 
@@ -98,7 +98,7 @@
 
   &:before {
     width: 53px;
-    background-image: url(/wp-content/plugins/ameliabooking/public/img/amelia-logo-outdated.svg);
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/amelia-logo-outdated.svg);
   }
 }
 

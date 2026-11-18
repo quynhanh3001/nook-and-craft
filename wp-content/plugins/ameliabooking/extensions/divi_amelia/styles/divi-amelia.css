@@ -10,7 +10,7 @@
 .et-fb-modules-list .divi_events:before,
 .et-fb-modules-list .divi_search:before {
     content: "" !important;
-    background-image: url(/wp-content/plugins/ameliabooking/extensions/divi_amelia/includes/images/amelia-logo-admin-icon.svg);
+    background-image: url(https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/extensions/divi_amelia/includes/images/amelia-logo-admin-icon.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;

@@ -23,7 +23,7 @@
 .amelia-gutenberg-multi-select-note:before {
     width: 16px;
     height: 12px;
-    content: url('/wp-content/plugins/ameliabooking/public/img/info-filled.svg');
+    content: url('https://quynhanh3001.github.io/nook-and-craft/wp-content/plugins/ameliabooking/public/img/info-filled.svg');
 }
 
 .wp-block-buttons .wp-block-button.wp-block-button__width-25 {
